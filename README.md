@@ -4,12 +4,12 @@
 https://mikkegoes.com/javascript-projects-for-beginners/
 |Project | Status |
 | ----------- | ----------- |
-| 1. Vanilla JavaScript stopwatch |  <center><ul><li>- [x] </li></ul></center> |
-| 1. JavaScript clock | - [x] |
-| 1.JavaScript calculator | - [x] |
-| 1. JavaScript drum kit | - [x] |
-| 1. Guess the Color game | - [x] |
-| 1. Hangman game | - [x] |
+| 1. Vanilla JavaScript stopwatch | [] |
+| 1. JavaScript clock | [] |
+| 1.JavaScript calculator | [] |
+| 1. JavaScript drum kit | [] |
+| 1. Guess the Color game | [] |
+| 1. Hangman game | [] |
 | 1. Tic Tac Toe | - [x] |
 | 1. Pong game | - [x] |
 | 1. Pairs game | - [x] |
