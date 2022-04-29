@@ -1,6 +1,10 @@
 # List_JS_Project
 ## Just 12am thoughts to practice my DOM skills
 
+|Project | Status |
+| ----------- | ----------- |
+| Chess_game | -[✔] |
+
 https://mikkegoes.com/javascript-projects-for-beginners/
 |Project | Status |
 | ----------- | ----------- |
