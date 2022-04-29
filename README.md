@@ -3,7 +3,7 @@
 
 |Project | Status |
 | ----------- | ----------- |
-| Chess_game | ✔ |
+| Chess_game | - [~] |
 
 https://mikkegoes.com/javascript-projects-for-beginners/
 |Project | Status |
