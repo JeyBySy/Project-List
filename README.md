@@ -10,7 +10,7 @@ https://mikkegoes.com/javascript-projects-for-beginners/
 | ----------- | ----------- |
 | 1. Vanilla JavaScript stopwatch | - [ ] |
 | 2. JavaScript clock | - [ ] |
-| 3.JavaScript calculator | - [ ] |
+| 3. JavaScript calculator | - [ ] |
 | 4. JavaScript drum kit | - [ ] |
 | 5. Guess the Color game | - [ ] |
 | 6. Hangman game | - [ ] |
