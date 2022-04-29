@@ -4,7 +4,7 @@
 https://mikkegoes.com/javascript-projects-for-beginners/
 |Project | Status |
 | ----------- | ----------- |
-| 1. Vanilla JavaScript stopwatch |- [x] |
+| 1. Vanilla JavaScript stopwatch |-[x] |
 | 1. JavaScript clock | - [x] |
 | 1.JavaScript calculator | - [x] |
 | 1. JavaScript drum kit | - [x] |
