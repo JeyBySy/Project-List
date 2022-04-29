@@ -5,7 +5,8 @@
 | ----------- | ----------- |
 | Chess_game | - [~] |
 
-https://mikkegoes.com/javascript-projects-for-beginners/
+| https://mikkegoes.com/javascript-projects-for-beginners/ |
+| --------------------- |
 |Project | Status |
 | ----------- | ----------- |
 | 1. Vanilla JavaScript stopwatch | - [ ] |
