@@ -1,9 +1,9 @@
 # List_JS_Project
 ## Just 12am thoughts to practice my DOM skills
 
-|  https://mikkegoes.com/javascript-projects-for-beginners/ |
+|Link|  https://mikkegoes.com/javascript-projects-for-beginners/ |
 | ----------- | ----------- |
-| Project |status|
+
 
 1. Vanilla JavaScript stopwatch [-x]
 1. JavaScript clock
