@@ -1,9 +1,10 @@
 # List_JS_Project
 ## Just 12am thoughts to practice my DOM skills
 
-https://mikkegoes.com/javascript-projects-for-beginners/
+| https://mikkegoes.com/javascript-projects-for-beginners/ |
+| Project |status|
 
-1. Vanilla JavaScript stopwatch [x]
+1. Vanilla JavaScript stopwatch [-x]
 1. JavaScript clock
 1.JavaScript calculator
 1. JavaScript drum kit
