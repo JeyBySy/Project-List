@@ -3,8 +3,8 @@
 
 |  https://mikkegoes.com/javascript-projects-for-beginners/ |
 | ----------- |
-|Project|Status|
-|------|-----|
+|Project | Status |
+| ------ | ----- |
 1. Vanilla JavaScript stopwatch
 1. JavaScript clock
 1.JavaScript calculator
