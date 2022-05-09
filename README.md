@@ -3,13 +3,13 @@
 
 |Project | Status |
 | ----------- | ----------- |
-| Chess_game | - [~] |
+| Chess_game - https://jeybysy.github.io/Chess_game/| - [~] |
 
 https://mikkegoes.com/javascript-projects-for-beginners/
 |Project | Status |
 | ----------- | ----------- |
 | 1. Vanilla JavaScript stopwatch | - [ ] |
-| 2. JavaScript clock | - [X] |
+| 2. JavaScript clock - https://jeybysy.github.io/Digital-Clock/| - [X] |
 | 3. JavaScript calculator | - [ ] |
 | 4. JavaScript drum kit | - [ ] |
 | 5. Guess the Color game | - [ ] |
