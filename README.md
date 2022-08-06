@@ -2,7 +2,7 @@
 ## To practice my DOM skills
 
 |Link | Project | 
-| ---------- | ----------- | ----------- |
+| ---------- | ----------- |
 | https://jeybysy.github.io/Chess_game/ | Chess_game -|
 
 https://mikkegoes.com/javascript-projects-for-beginners/
