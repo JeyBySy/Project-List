@@ -1,5 +1,5 @@
 # Javascript Projects
-## Something cool
+## //Something cool
 |Link | Project | 
 | ---------- | ----------- |
 |  | Battleship |
