@@ -1,14 +1,13 @@
 # List_JS_Project
-## To practice my DOM skills
 
 |Link | Project | 
 | ---------- | ----------- |
-| https://jeybysy.github.io/Chess_game/ | Chess_game|
 |  | Time Capsule Letter |
 
-https://mikkegoes.com/javascript-projects-for-beginners/
+## To practice my DOM skills
 |Link | Project |
 | ---------- | ----------- | 
+| https://jeybysy.github.io/Chess_game/ | Chess_game|
 | | 1. Vanilla JavaScript stopwatch | 
 | https://jeybysy.github.io/Digital-Clock/| 2. JavaScript clock - |
 | | 3. JavaScript calculator | 
