@@ -1,4 +1,4 @@
-# List_JS_Project
+# Javascript Projects
 |Link | Project | 
 | ---------- | ----------- |
 |  | Battleship |
