@@ -4,6 +4,7 @@
 |Link | Project | 
 | ---------- | ----------- |
 | https://jeybysy.github.io/Chess_game/ | Chess_game|
+|  | Time Capsule Letter |
 
 https://mikkegoes.com/javascript-projects-for-beginners/
 |Link | Project |
