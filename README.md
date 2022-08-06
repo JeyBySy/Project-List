@@ -5,7 +5,7 @@
 |  | Battleship |
 |  | Time Capsule Letter |
 
-## To practice my DOM skills
+## //To practice my DOM skills
 |Link | Project |
 | ---------- | ----------- | 
 | https://jeybysy.github.io/Chess_game/ | Chess_game|
