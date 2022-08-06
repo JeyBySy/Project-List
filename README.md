@@ -1,6 +1,7 @@
 # List_JS_Project
 |Link | Project | 
 | ---------- | ----------- |
+|  | Battleship |
 |  | Time Capsule Letter |
 
 ## To practice my DOM skills
