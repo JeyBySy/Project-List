@@ -3,7 +3,7 @@
 
 |Link | Project | 
 | ---------- | ----------- |
-| https://jeybysy.github.io/Chess_game/ | Chess_game -|
+| https://jeybysy.github.io/Chess_game/ | Chess_game|
 
 https://mikkegoes.com/javascript-projects-for-beginners/
 |Link | Project |
