@@ -6,8 +6,8 @@
 | https://jeybysy.github.io/Chess_game/ | Chess_game -| - [~] |
 
 https://mikkegoes.com/javascript-projects-for-beginners/
-|Link | Project | Status |
-| ---------- | ----------- | ----------- |
+|Link | Project |
+| ---------- | ----------- | 
 | | 1. Vanilla JavaScript stopwatch | 
 | https://jeybysy.github.io/Digital-Clock/| 2. JavaScript clock - |
 | | 3. JavaScript calculator | 
