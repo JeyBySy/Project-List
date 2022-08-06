@@ -1,4 +1,5 @@
 # Javascript Projects
+## Something cool
 |Link | Project | 
 | ---------- | ----------- |
 |  | Battleship |
