@@ -6,7 +6,7 @@
 | https://g-tracer.site/ | Tracer (Capstone Project) |
 |  | Battleship |
 |  | Time Capsule Letter |
-|  | Instagram image downloader |
+
 
 ## // To practice my DOM skills
 |Link | Project |
